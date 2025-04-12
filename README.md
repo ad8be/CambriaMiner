@@ -36,7 +36,7 @@
 
 ## 📷 Превью интерфейса
 
-![UI Preview](https://imgur.com/U2hQT3O)
+![UI Preview](https://i.imgur.com/U2hQT3O.png)
 
 ---
 
